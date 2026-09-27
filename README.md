@@ -1,3 +1,2 @@
 # dwm
-# dwm
-# dwm
+my config
